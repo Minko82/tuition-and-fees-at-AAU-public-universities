@@ -7,17 +7,22 @@ This project explores how tuition and fees have changed over the past 17 years a
 <br>
 
 ---
-## 📊 **Key Visualizations**
+
+
+## 🚀 **Getting Started**
+
+### **Installation**
+
+To run the visualizations, install the required libraries:
+```bash
+pip install altair pandas vega_datasets
+```
 
 <br>
 
 ---
-## 🌟 **Features**
+## 🎨 **Visualizations**
 
-- **Data Filtering and Transformations**  
-- **Styling Enhancements**
-- **Geographic Data Visualization**
-- **Accessibility**
 
 <br>
 
