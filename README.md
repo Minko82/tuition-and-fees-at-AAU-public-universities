@@ -7,20 +7,6 @@ This project explores how tuition and fees have changed over the past 17 years a
 <br>
 
 ---
-
-
-## 🚀 **Getting Started**
-
-### **Installation**
-
-To run the visualizations, install the required libraries:
-```bash
-pip install altair pandas vega_datasets
-```
-
-<br>
-
----
 ## 🎨 **Visualizations**
 
 
@@ -41,4 +27,19 @@ pip install altair pandas vega_datasets
 - **Pandas:** For data preprocessing and manipulation.
 - **GeoJSON:** For geographic data visualizations.
 
+
+<br>
+
+---
+
+## 🚀 **How to Use**
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Minko82/Tuition-and-Fees-at-AAU-Public-Universities.git
+   ```
+2. Open the Jupyter Notebook to interactively explore the data and visualizations:
+   ```bash
+   jupyter notebook uni-tuition-vis.ipynb
+   ```
 
