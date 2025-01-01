@@ -27,7 +27,6 @@ This project explores how tuition and fees have changed over the past 17 years a
 - **Pandas:** For data preprocessing and manipulation.
 - **GeoJSON:** For geographic data visualizations.
 
-
 <br>
 
 ---
