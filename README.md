@@ -9,6 +9,34 @@ This project explores how tuition and fees have changed over the past 17 years a
 ---
 ## 🎨 **Visualizations**
 
+### **1. Map-Based Visualizations**
+<table align="center" style="border-collapse: separate; border-spacing: 15px;">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/06cfbf3f-c584-42a4-bfce-3a431f9edef7" alt="Peer Institution Comparisons" width="300">
+      <br>
+      <b>Peer Institution Comparisons</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d816ccd4-151c-4a3e-809f-0f006f238cd7" alt="Tuition and Fees Map" width="475">
+      <br>
+      <b>Tuition and Fees Map</b>
+    </td>
+  </tr>
+</table>
+
+
+### **2. Annual Tuition Trends**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3606c16d-6320-429d-a3ab-c5bbcebd8495" alt="Visualization 1" width="60%">
+</p>
+
+
+### **3. Changes Over Time**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c798a64-f5ee-4a66-97f3-564645ce8b19" alt="Visualization 4" width="30%">
+</p>
+
 
 <br>
 
