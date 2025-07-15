@@ -1,4 +1,5 @@
-# 📊 Tuition and Fees at AAU Public Universities
+# Data Visualization
+## 📊 Tuition and Fees at AAU Public Universities
 
 ## 📝 **Project Description**
 
