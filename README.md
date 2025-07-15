@@ -1,9 +1,9 @@
 # Data Visualization
 ## 📊 Tuition and Fees at AAU Public Universities
 
-## 📝 **Project Description**
+### 📝 **Project Description**
 
-This project explores how tuition and fees have changed over the past 17 years at **AAU Public Universities**.
+A **Python**-based data analysis and visualization project exploring how tuition and fees have changed over the past 17 years at **AAU Public Universities**.
 
 <br>
 
